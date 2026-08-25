@@ -1,0 +1,4 @@
+<resources>
+    <string name="used_message">Used by the sample</string>
+    <string name="unused_message">Reported as unused</string>
+</resources>
